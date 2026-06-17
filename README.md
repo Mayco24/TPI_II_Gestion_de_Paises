@@ -41,9 +41,9 @@ Entre sus principales funcionalidades se encuentran la búsqueda de países, el 
 
 TPI-Gestion-Paises-Python
 │
-├── main.py
-├── paises.csv
-├── README.md
+| ── main.py
+| ── paises.csv
+| ── README.md
 
 
 
@@ -69,9 +69,9 @@ Ejemplo:
 Nombre,Población,Superficie,Continente
 
 
-Argentina,45376763,2780400,América
-Brasil,213993437,8515767,América
-Japón,125800000,377975,Asia
+* Argentina,45376763,2780400,América
+* Brasil,213993437,8515767,América
+* Japón,125800000,377975,Asia
 
 
 
@@ -238,10 +238,10 @@ Salida:
 
 
 
-Nombre: Argentina
-Población: 45376763
-Superficie: 2780400
-Continente: América
+* Nombre: Argentina
+* Población: 45376763
+* Superficie: 2780400
+* Continente: América
 
 
 
